@@ -3,6 +3,7 @@
 // ======================================================
 // TALENDEV - Azure Landing Page
 // Archivo único: index.php
+// Autor: Victor
 // ======================================================
 
 $courses = [
